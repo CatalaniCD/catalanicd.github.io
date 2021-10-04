@@ -61,6 +61,7 @@ ________________________________________________________________________________
 ### Coding Skills
     - Numpy : Scientific Computing
     - Pandas : Data Handling
+    - Matplotlib, Seaborn : Data Visualization
     - SQLite : Data Base Management
     - Sklearn : Machine Learning
     - Keras : Deep Learning
