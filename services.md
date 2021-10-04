@@ -21,5 +21,6 @@ ________________________________________________________________________________
   - [Contact](https://github.com/CatalaniCD/catalanicd.github.io/blob/main/contact.md)
  
 ### Consulting 
+  - [Contact](https://github.com/CatalaniCD/catalanicd.github.io/blob/main/contact.md)
 <!--   - Cryptocurrency Markets -->
 
