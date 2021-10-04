@@ -3,8 +3,8 @@
 ## Core Skills
     Mathematics 
     Computer Science 
-    Algorithmic Trading <<< ADD This one!
     Machine Learning
+    Algorithmic Trading <<< ADD This one!
 
 ## Math Skills
 
