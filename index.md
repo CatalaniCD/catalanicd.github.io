@@ -3,8 +3,6 @@
 
 ### Mission
 
-### About
-
-### [background](./background.md).
+### [About](./about.md).
 
 ### Contact
