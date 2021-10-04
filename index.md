@@ -1,15 +1,10 @@
 
-### services
+### Services
 
-### mission
+### Mission
 
-### about
+### About
 
-### contact
+### [background](./background.md).
 
-### [background]
-
-[Link to another page](./background.md).
-[Link to another page](./background.html).
-[Link to another page](/background.md).
-[Link to another page](/background.html).
+### Contact
