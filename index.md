@@ -5,4 +5,4 @@
 
 ### [About](./about.md).
 
-### Contact
+### [Contact](./contact.md).
