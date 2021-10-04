@@ -1,9 +1,11 @@
 # background
 
-Math Skills
+Mathematics Skills
 
 Computer Science Skills
 
+Algorithmic Trading Skills
+
 Machine Learning Skills
 
-Algorithmic Trading Skills
+
