@@ -22,8 +22,11 @@ Small Bio
     - Probabilities in Finance
     - Gambler's Ruin Theorem
     - Financial Time Series Analysis
+    - Random Walk Processes
     - Ito's Process, Ito's Lemma
     - Black Scholes Equations
+    - Montecarlo Simulation
+    - Options Pricing
     - Heat Equations
     - Financial Modelling
     - Portfolio Optimization
