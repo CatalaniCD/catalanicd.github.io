@@ -4,7 +4,7 @@
 Small Bio
 - chess
 - coding
-- military
+- navy background
 - trading
 - back to the roots
 """
@@ -57,6 +57,9 @@ Small Bio
     - Keras : Deep Learning
     - Api Integrations
 
+### Development Skills
+    - Object Oriented Desing
+    
 ## Machine Learning Skills
     - Supervised Learning
         - Regression
