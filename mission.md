@@ -1,5 +1,5 @@
 
-Mission Statement
+# Mission Statement
 
 
     Development & Application of Systematic & Optimal Approaches in Finance, 
