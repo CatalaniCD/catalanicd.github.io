@@ -1,5 +1,9 @@
 Title : QuantDynamics
 description : Quantitative Finance & Computational Mathematics Applications Development
+
+# set theme
 theme: jekyll-theme-minimal
 
+# markdown processor
+markdown: kramdown
 
