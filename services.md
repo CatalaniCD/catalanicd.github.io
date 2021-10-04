@@ -4,7 +4,7 @@ ________________________________________________________________________________
 ### Trading Applications
   - Market Scanners
   - Trading Alerts
-  - Traing Strategies
+  - Trading Strategies
   
 ### Investment Applications
   - Portfolio Optimizers
