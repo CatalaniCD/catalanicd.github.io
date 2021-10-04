@@ -57,11 +57,22 @@ Small Bio
     - Keras : Deep Learning
     - Api Integrations
 
-### Machine Learning Skills
+### Machine Learning Skills 
     - Mathematical Models on Machine Learning Algorithms
     - Machine Learning Algorithms Development
     - Machine Learning Workflow Application
+    - Supervised Learning
+        - Regression
+        - Classification
+    - Unsupervised Learning
+        - Principal Component Analysis
+        - Anomaly Detection
+        - Clustering
+    - Reinforcement Learning
+        - Bandit Algorithms
     - Recommender Systems
+        - Collaborative Filtering
+        - Matrix Factorization
     - Deep Learning Models Applications :
         - Forward Feed Neural Networks
         - Convolutional Neural Networks
