@@ -1,4 +1,3 @@
-# QuantDynamics
 
 ### services
 
@@ -8,4 +7,4 @@
 
 ### contact
 
-### background
+### [background]
