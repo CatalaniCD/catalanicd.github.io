@@ -1,10 +1,13 @@
-# Background
+## Background
+________________________________________________________________________________________________________________________________________________________________
 
 ## Core Skills
     Mathematics 
     Computer Science 
     Machine Learning
-    Algorithmic Trading <<< ADD This one!
+    Algorithmic Trading
+
+________________________________________________________________________________________________________________________________________________________________
 
 ## Math Skills
 
@@ -31,6 +34,8 @@
     - Optimal Decision Making 
     - Optimal Strategies
 
+________________________________________________________________________________________________________________________________________________________________
+
 ## Computer Science Skills
 
 ### Algorithmic Thinking
@@ -56,6 +61,8 @@
 
 ### Development Skills
     - Object Oriented Desing
+    - Computer Simulation
+    - Optimization
     
 ## Machine Learning Skills
     - Supervised Learning
@@ -85,4 +92,17 @@
         - Forward Feed Neural Networks
         - Convolutional Neural Networks
         - Recurrent Neural Networks
+
+________________________________________________________________________________________________________________________________________________________________
+
+## Algorithmic Trading Skills
+    - Mathematical Modelling for Backtesting or Simulation of Trading Situations
+    - Backtester Development
+    - Technical Analysis
+    - Statistical Analysis
+    - Performance Measures
+    - Trading Systems Research & Development
+    - Trading Strategies Reserach & Development
+    
+
 
