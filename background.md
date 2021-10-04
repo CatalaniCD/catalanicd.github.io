@@ -103,7 +103,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________
 
 ## Algorithmic Trading Skills
-    - Mathematical Modelling for Backtesting or Simulation of Trading Situations
+    - Mathematical Modelling for Backtesting 
+    - Simulation of Trading Situations
     - Backtester Development
     - Technical Analysis
     - Statistical Analysis
