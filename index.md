@@ -3,12 +3,12 @@
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-### [Services](./services.md)
+### [Services](./bar/services.md)
 
-### [Background](./background.md)
+### [Background](./bar/background.md)
 
-### [Mission](./mission.md)
+### [Mission](./bar/mission.md)
 
-### [About](./about.md)
+### [About](./bar/about.md)
 
-### [Contact](./contact.md)
+### [Contact](./bar/contact.md)
