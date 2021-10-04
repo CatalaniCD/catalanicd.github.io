@@ -1,8 +1,8 @@
 
-### [Services](./services.md).
+### [Services](./services.md)
 
 ### Mission
 
-### [About](./about.md).
+### [About](./about.md)
 
-### [Contact](./contact.md).
+### [Contact](./contact.md)
