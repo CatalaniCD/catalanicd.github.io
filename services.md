@@ -10,6 +10,10 @@ ________________________________________________________________________________
   - Portfolio Optimizers
   - Stock Picking Apps 
   
+### Expert Systems Applications
+  - Machine Learning Decision Making for Trading & Investing
+  - Deep Learning Decision Making for Trading & Investing
+  
 ### Algorithmic Trading
   - Technical Analysis Trading Systems Development
   - Machine Learning Trading Systems Development  
