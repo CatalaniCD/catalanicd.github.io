@@ -19,6 +19,7 @@ ________________________________________________________________________________
   - Machine Learning Trading Systems Development  
     - Deep Learning Trading Systems
     - Case Based Reasoning Trading Systems
+  - Portfolio Manager Algorithms
   - Trading Algorithms Cloud Deployment
 
 ### Asset Management
