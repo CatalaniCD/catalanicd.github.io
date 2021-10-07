@@ -1,7 +1,10 @@
 
-## Mission Statement
 
+## "Si bis pacem, parabellum"
 ________________________________________________________________________________________________________________________________________________________________
+
+###  Mission Statement
+
 **Development and Application of Systematic, Optimal, and Profitable Approaches in Finance, leveraged by Computational Power and Resources through a Wise and  Informed Methodology**
 
 
