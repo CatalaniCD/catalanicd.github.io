@@ -1,7 +1,7 @@
 ## About
 
 ________________________________________________________________________________________________________________________________________________________________
-Hi I'm Claudio Catalani.I was taught to play chess when I was 5 years old by my father as a family tradition's sport. Then I started to play chess in the local club between 6 and 8 years old. Playing chess was an important activity along my life to train my focus and insight for my life, and was a key role in choosing my career path. I wrote down my first lines of code when I was 12 years old and did few programming courses in computer programming institution; at that time, my dream was to develop software with artificial intelligence. 
+Hi, I'm Claudio Catalani. I was taught to play chess when I was 5 years old by my father as a family traditional sport. Then I started to play chess in the local club between 6 and 8 years old. Playing chess was an important activity along my life to train my focus and insight for problem-solving, and was a key role in choosing my career path. I wrote down my first lines of code when I was 12 years old and did a few programming courses in a computer programming institution; at that time, my dream was to develop software with artificial intelligence. 
 
 I went to the Naval Service to become an officer and learned about military discipline, leadership, engineering, and naval weapons. I'm a goal-oriented and self-motivated professional, able to deliver creative solutions to any problem. Nowadays, back to the roots in computer science and programming, I enjoy unleashing the power of computers to solve problems in the finance industry. My background in math, engineering, programming makes me a suitable candidate to solve challenging projects. 
 
