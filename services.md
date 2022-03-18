@@ -24,10 +24,10 @@ ________________________________________________________________________________
   - Portfolio Manager Algorithms
   - Trading Algorithms Cloud Deployment
 
-### Asset Management
-  - [Contact](https://github.com/CatalaniCD/catalanicd.github.io/blob/main/contact.md)
- 
 ### Consulting 
   - [Contact](https://github.com/CatalaniCD/catalanicd.github.io/blob/main/contact.md)
 <!--   - Cryptocurrency Markets -->
 
+<!-- ### Asset Management
+  - [Contact](https://github.com/CatalaniCD/catalanicd.github.io/blob/main/contact.md) -->
+ 
